@@ -1,0 +1,8 @@
+iam_roles = {
+  test1 = {
+    role_name     = "test1"
+  },
+  test2 = {
+    role_name= "test2"
+  }
+}
